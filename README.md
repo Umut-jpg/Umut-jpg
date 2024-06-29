@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umut-jpg
-- 👀 I’m interested in python, javascript , react and nodejs
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in  nodejs, javascript , react and Kotlin
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me yusaumutyerlicay@gmail.com , contact@yusaumut.com
 - ✨ My linkedin profile linkedin.com/in/yusaumutyerlicay/
 - 🌐 Visit My WebSite : yusaumut.com
