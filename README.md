@@ -12,5 +12,6 @@
 - ✨ My linkedin profile linkedin.com/in/yusaumutyerlicay/
 - 🌐 Visit My WebSite : yusaumut.com
 
-  
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=Umut-jpg&style=flat-square)
+<p align="center">
