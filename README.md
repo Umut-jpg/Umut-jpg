@@ -5,6 +5,7 @@
   <a href="https://www.yusaumut.com">YusaUmut.Com</a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Umut-jpg&style=flat-square)
 - 👋 Hi, I’m @Umut-jpg  
 - 👀 I’m interested in  nodejs, javascript , react and Kotlin
 - 🌱 I’m currently learning Kotlin
@@ -12,6 +13,4 @@
 - ✨ My linkedin profile linkedin.com/in/yusaumutyerlicay/
 - 🌐 Visit My WebSite : yusaumut.com
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=Umut-jpg&style=flat-square)
-<p align="center">
+  
