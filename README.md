@@ -12,12 +12,12 @@
 - ✨ My linkedin profile linkedin.com/in/yusaumutyerlicay/
 - 🌐 Visit My WebSite : yusaumut.com
 - 👀 Skills
-    Backend: Java, Spring Boot, Hibernate, PHP, Laravel, Eloquent
-    Frontend: JavaScript, TypeScript, React, Next.js
-    Mobile: React Native
-    Databases / Cache / Queue: PostgreSQL, Redis, RabbitMQ
-    DevOps / CI-CD: Docker, Git, GitLab CI/CD, Jenkins, SonarQube, Rancher, AWS
-    Architecture: Microservices
-    Other: REST, WebSockets, PeerJS, WebRTC
+    - Backend: Java, Spring Boot, Hibernate, PHP, Laravel, Eloquent
+    - Frontend: JavaScript, TypeScript, React, Next.js
+    - Mobile: React Native
+    - Databases / Cache / Queue: PostgreSQL, Redis, RabbitMQ
+    - DevOps / CI-CD: Docker, Git, GitLab CI/CD, Jenkins, SonarQube, Rancher, AWS
+    - Architecture: Microservices
+    - Other: REST, WebSockets, PeerJS, WebRTC
 
   
